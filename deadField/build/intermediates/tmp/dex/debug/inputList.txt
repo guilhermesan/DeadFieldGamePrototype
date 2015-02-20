@@ -1,0 +1,4 @@
+/home/guilherme/workspace/DeadField2/deadField/build/intermediates/classes/debug
+/home/guilherme/workspace/DeadField2/deadField/build/intermediates/pre-dexed/debug/classes-7ad627feefea82448c8a813feb8e5e76848df280.jar
+/home/guilherme/workspace/DeadField2/deadField/build/intermediates/pre-dexed/debug/classes-0d38c3d0d41f2f1ba9a5855318705f2d87ada051.jar
+/home/guilherme/workspace/DeadField2/deadField/build/intermediates/pre-dexed/debug/support-v4-18.0.0-bbe4d87d1cc9899c670592acfd95121419d76023.jar

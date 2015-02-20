@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/guilherme/workspace/DeadField2/deadField/build/intermediates/exploded-aar/DeadField2/androidGameEng/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0824fcd2aa69442e312f74e9146b5a6d39ed9ed7">
+        <dex dex="/home/guilherme/workspace/DeadField2/deadField/build/intermediates/pre-dexed/debug/classes-7ad627feefea82448c8a813feb8e5e76848df280.jar" />
+    </item>
+    <item
+        jar="/home/guilherme/workspace/DeadField2/deadField/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/home/guilherme/workspace/DeadField2/deadField/build/intermediates/pre-dexed/debug/classes-0d38c3d0d41f2f1ba9a5855318705f2d87ada051.jar" />
+    </item>
+    <item
+        jar="/home/guilherme/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/guilherme/workspace/DeadField2/deadField/build/intermediates/pre-dexed/debug/support-v4-18.0.0-bbe4d87d1cc9899c670592acfd95121419d76023.jar" />
+    </item>
+
+</items>
